@@ -1,0 +1,1 @@
+gRZC:\Users\aawai\OneDrive\Desktop\SocietiesManagementSystem\SocietiesManagementSystem.csprojòCSharp14
